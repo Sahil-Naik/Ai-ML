@@ -1,1 +1,1 @@
-Contains some of the basic AI one can create.
+Contains some of the basic AI models one can create.
